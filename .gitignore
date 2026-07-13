@@ -1,0 +1,7 @@
+# AoC puzzle inputs
+input.txt
+**/input.txt
+
+# Python
+__pycache__/
+*.pyc
